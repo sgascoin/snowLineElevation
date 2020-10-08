@@ -1,7 +1,7 @@
 # Sentinel-2 snow cover product use case: snow line elevation
-This Python notebook shows how to explore the snow line elevation variability across the Pyrenees range 
+This [Python notebook](https://github.com/sgascoin/snowLineElevation/blob/main/snowLineElevationWithCloud.ipynb) shows how to explore the snow line elevation variability across the Pyrenees range 
 from a Sentinel-2 snow cover map ([HRSI](https://land.copernicus.eu/pan-european/biophysical-parameters/high-resolution-snow-and-ice-monitoring) or 
-[Theia](https://theia.cnes.fr) ).
+[Theia](https://theia.cnes.fr) (for Theia switch to the Theia branch of the git repository))
 
 On 25 and 26 Sep 2020 occurred an early snowfall in the Pyrenees. 
 The snow cover area [was captured by Sentinel-2](https://labo.obs-mip.fr/multitemp/september-snow-captured-by-sentinel-2/) the day after on Sep 27. 
